@@ -6,3 +6,8 @@ To assess in helping investment decisions, are Arto's shares still attractive fo
 For this reason, this program seeks to assist in predicting Arto's shares in making investment decisions, with the help of the `Facebook Prophet` and `Machine Learning`.
 
 By using historical data obtained from [Yahoo Finance](https://finance.yahoo.com/quote/ARTO.JK/history?p=ARTO.JK), we can analyze what Bank Jago's stock price predictions will look like in the future.
+
+### Plotting Using `Facebooks Prophnet`
+![Plot Arto](https://user-images.githubusercontent.com/91531966/141498668-04ff734c-b1f3-4281-8333-2e2a7c3f0dbb.png)
+
+We can see, the results of the plot using facebook prophet show good model results, indicated by following the actual price line, we can also see that the plot results predict that Bank Jago shares will continue to increase, so this can be considered for investors as a signal buy, or for investors who already have it can continue to hold.

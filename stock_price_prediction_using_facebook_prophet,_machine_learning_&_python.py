@@ -13,7 +13,6 @@ Original file is located at
 import pandas as pd
 
 #Load the data
-from google.colab import files
 files.upload()
 
 #Read in the data
@@ -50,8 +49,8 @@ from fbprophet.plot import plot_plotly
 #plot the data
 plot_plotly(fbp, forecast)
 
-#Show the models prediction for 10-15-2021
+#Show the models prediction for 10-18-2021
 forecast[forecast.ds == '2021-10-18']['yhat']
 
-#Show the actual value of the stock for 10-15-2021
+#Show the actual value of the stock for 10-18-2021
 last[last.ds == '2021-10-18']['y']

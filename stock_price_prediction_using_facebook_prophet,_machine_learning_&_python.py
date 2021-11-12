@@ -28,11 +28,11 @@ df = df.rename(columns={'Date':'ds', 'Close':'y'})
 #Show the data
 df
 
-#Getting the last 20 rows data and store them into a new variable
+#Getting the last 60 rows data and store them into a new variable
 last = df[len(df)-60:]
 last
 
-#Get all of the rows in the data set except for the last 20 rows of data
+#Get all of the rows in the data set except for the last 60 rows of data
 df = df[:-60]
 df
 
@@ -55,4 +55,3 @@ forecast[forecast.ds == '2021-10-18']['yhat']
 
 #Show the actual value of the stock for 10-15-2021
 last[last.ds == '2021-10-18']['y']
-

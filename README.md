@@ -15,4 +15,4 @@ We can see, the results of the plot using `Facebook Prophet` show **good model r
 ### Prediction results using a `Machine Learning`-based `Facebook Prophnet` model
 <img width="361" alt="Screenshot 2021-11-12 233458" src="https://user-images.githubusercontent.com/91531966/141501724-fca81c7c-25ea-446b-b531-8483426d8502.png">
 
-If we see, the results of the predictions are quite good even though there is a **difference of 2 points**, but the model is able to produce quite good insight.
+If we see, the results of the model predictions are able to produce quite good insight.

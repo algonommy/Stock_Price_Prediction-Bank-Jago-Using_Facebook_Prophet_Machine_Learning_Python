@@ -5,6 +5,7 @@ this attracted the attention of investors because Bank Jago plans to **transform
 Until now, the stock price of Bank Jago with the stock code "Arto" to be exact 12 November 2021 is worth Rp 15,500, meaning that since December 2020 there has been an increase of 334%.
 To assess in helping investment decisions, are Arto's shares still attractive for investors to buy or will the price continue to increase?
 For this reason, this program seeks to assist in predicting Arto's shares in making investment decisions, with the help of the `Facebook Prophet` and `Machine Learning`.
+As reading material, you can read it through [Facebook Prophet](https://facebook.github.io/prophet/docs/quick_start.html) for time series predictions.
 
 By using historical data obtained from [Yahoo Finance](https://finance.yahoo.com/quote/ARTO.JK/history?p=ARTO.JK), we can analyze what Bank Jago's stock price predictions will look like in the future.
 

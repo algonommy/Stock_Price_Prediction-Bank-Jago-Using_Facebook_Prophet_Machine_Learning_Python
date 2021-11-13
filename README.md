@@ -1,4 +1,4 @@
-# stock-price-prediction-Bank-Jago-Using-Facebook-Prophet-Machine-Learning-Python
+# Stock Price Prediction Bank Jago Using Facebook Prophet Machine Learning & Python
 ## Overview
 Bank Jago has attracted investors' attention since the end of December 2020, where previously the company was named **PT Bank Atos Indonesia Tbk**, then on 27 May 2021 based on ***the Decree of the Deputy Commissioner for Banking Supervision I OJK Number KEP-95/PB.1/2020 dated 27 may 2020 regarding the application of the use of a business license on behalf of PT Bank Artos Indonesia, Tbk to become PT Bank Jago, Tbk***.
 this attracted the attention of investors because Bank Jago plans to **transform digital banks**, through this strategic planning since 2020, Bank Jago has become a concern for investors, where at the end of 2020 Bank Jago's share price was recorded at Rp 3,566. interestingly, **Gojek** through its subsidiary **PT Dompet Karya Anak Bangsa** acquired 1.95 billion shares of Bank Jago worth Rp 2.25 trillion on December 18, 2020.
